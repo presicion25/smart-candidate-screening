@@ -20,4 +20,4 @@
 
 </summary>
 
-[![Smart Candidate Screening Automation](https://vimeo.com/1120596380 "Smart Candidate Screening")
+[!Smart Candidate Screening Automation](https://vimeo.com/1120596380 "Smart Candidate Screening")
