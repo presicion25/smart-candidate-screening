@@ -12,7 +12,7 @@
 3. Improved Candidate Experience and Quality: Automated systems can provide immediate responses to applicants and streamline the application process, leading to higher candidate satisfaction and reduced drop-off rates.
 
 
-<h2>For a link to view the automation in action click the arrow below:</h2> 
+<h2>To view the automation in action click the arrow below:</h2> 
 
   <details close>
 
