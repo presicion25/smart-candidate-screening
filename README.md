@@ -20,4 +20,4 @@
 
 </summary>
 
-[!Smart Candidate Screening Automation](https://i.vimeocdn.com/video/2061412775-425babdadef280a89dc39c2533feb155a3d2f0282a8efbb2f4aa6d2b443fdb51-d_142x80?&r=pad&region=us)](https://vimeo.com/1120596380 "Smart Candidate Screening")
+[![Smart Candidate Screening Automation](https://i.vimeocdn.com/video/2061412775-425babdadef280a89dc39c2533feb155a3d2f0282a8efbb2f4aa6d2b443fdb51-d_142x80?&r=pad&region=us)](https://vimeo.com/1120596380 "Smart Candidate Screening")
