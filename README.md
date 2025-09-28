@@ -12,3 +12,12 @@
 3. Improved Candidate Experience and Quality: Automated systems can provide immediate responses to applicants and streamline the application process, leading to higher candidate satisfaction and reduced drop-off rates.
 
 
+<h2>To view the automation click the arrow below:</h2> 
+
+  <details close>
+
+<div>
+
+</summary>
+
+[![Smart Candidate Screning Automation](https://vimeo.com/1120596380 "Samrt Candidate Screening")
